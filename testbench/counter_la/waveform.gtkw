@@ -1,0 +1,64 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Wed Jan 17 13:45:36 2024
+[*]
+[dumpfile] "/home/ubuntu/Desktop/LabD/testbench/counter_la/counter_la.vcd"
+[dumpfile_mtime] "Wed Jan 17 13:32:52 2024"
+[dumpfile_size] 71144267
+[savefile] "/home/ubuntu/Desktop/LabD/testbench/counter_la/waveform.gtkw"
+[timestart] 980208000
+[size] 2048 1081
+[pos] 1923 970
+*-17.456272 980462500 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] counter_la_tb.
+[treeopen] counter_la_tb.uut.
+[treeopen] counter_la_tb.uut.mprj.
+[treeopen] counter_la_tb.uut.mprj.mprj.
+[treeopen] counter_la_tb.uut.padframe.
+[treeopen] counter_la_tb.uut.padframe.mprj_pads.
+[treeopen] counter_la_tb.uut.soc.
+[treeopen] counter_la_tb.uut.soc.core.
+[treeopen] counter_la_tb.uut.soc.core.VexRiscv.
+[sst_width] 383
+[signals_width] 262
+[sst_expanded] 1
+[sst_vpaned_height] 310
+@200
+-#wbs
+@28
+counter_la_tb.uut.mprj.mprj.clk
+@22
+counter_la_tb.uut.mprj.mprj.wbs_adr_i[31:0]
+@28
+counter_la_tb.uut.mprj.mprj.wbs_stb_i
+counter_la_tb.uut.mprj.mprj.wbs_cyc_i
+@22
+counter_la_tb.uut.mprj.mprj.wbs_dat_i[31:0]
+@28
+counter_la_tb.uut.mprj.mprj.wbs_we_i
+counter_la_tb.uut.mprj.mprj.valid
+@22
+counter_la_tb.uut.mprj.mprj.wbs_dat_o[31:0]
+@28
+counter_la_tb.uut.mprj.mprj.wbs_ack_o
+@200
+-
+-
+-
+-
+-#sdr_ctrl
+@28
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.refresh_flag_d
+@22
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.sdram_dqo[31:0]
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.refresh_ctr_d[9:0]
+@28
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.busy
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.rw
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.in_valid
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.out_valid
+@22
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.addr[22:0]
+counter_la_tb.uut.mprj.mprj.user_sdram_controller.data_in[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
